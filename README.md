@@ -2,7 +2,7 @@
 
 <img src="logo.gif" alt="LUNA-AI" width="200"/>
 
-# 😊 LUNA-AI
+# LUNA-AI
 
 [![Arduino](https://img.shields.io/badge/Arduino-ESP32-blue.svg)](https://github.com/arduino/arduino-esp32)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -10,7 +10,7 @@
 
 **Serverless AI Voice Assistant | ESP32 Platform | Pure Arduino Development**
 
-
+## IMPORTANT (especially code upload section)
 
 </div>
 
@@ -279,6 +279,5 @@ IDLE → LISTENING → PROCESSING_LLM → PLAYING_TTS → WAIT_TTS_COMPLETE → 
 
 
 <div align="center">
-  <b>Open source collaboration for shared progress!</b><br>
   If you find this project helpful, please give it a ⭐️
 </div>
