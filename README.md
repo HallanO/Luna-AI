@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="LUNA-AI" width="200"/>
+<img src="logo.gif" alt="LUNA-AI" width="200"/>
 
 # 😊 LUNA-AI
 
