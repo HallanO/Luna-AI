@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-ESP32-red.svg)](https://www.espressif.com/)
 
-**Serverless AI Voice Assistant | ESP32 Platform | Pure Arduino Development**
+**Serverless AI Voice Assistant | ESP32 S3 Platform**
 
 ## IMPORTANT (especially code upload section)
 
@@ -165,7 +165,7 @@ LUNA-AI/
      - **Seeed_Arduino_mbedtls** (v3.0.2 or later)
 
 4. **API Key Configuration**
-
+    - Replace `"your-weatherapi-api-key"` with your actual WeatherAPI API key
    **For Push-to-Talk Mode** (`examples/chat/chat.ino`):
    - Replace `"your-api-key"` with your actual OpenAI API key
    - Replace `"your-wifi-ssid"` and `"your-wifi-password"` with your WiFi credentials
