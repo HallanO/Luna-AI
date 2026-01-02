@@ -47,8 +47,8 @@ Adafruit_NeoPixel strip(NUM_LEDS, LED_PIN, NEO_GRB + NEO_KHZ800);
 #define I2S_SLOT_MASK I2S_STD_SLOT_LEFT
 
 // WiFi settings
-const char* ssid = "rtxy";
-const char* password = "123456789";
+const char* ssid = "your-wifi-ssid";
+const char* password = "your-wifi-password";
 
 // --- TFT Pinout ---
 #define TFT_CS 10
